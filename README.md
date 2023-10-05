@@ -47,12 +47,16 @@
 
 
 ### Quick stats about me
+
 | Github Stats | Top Languages
 | --- | --- |
 | ![GM-Frost github stats](https://github-readme-stats.vercel.app/api?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true) | ![GM-Frost top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true&layout=compact)
 
+<div align="center">
+  
 | Github Streaks |
 | ------ |
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gm-frost&theme=leafy&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
+</div>
 
