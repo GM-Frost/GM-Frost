@@ -50,7 +50,7 @@
 
 | Github Stats | Top Languages
 | --- | --- |
-| ![GM-Frost github stats](https://github-readme-stats.vercel.app/api?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true) | ![GM-Frost top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true&layout=compact)
+| ![GM-Frost github stats](https://github-readme-stats.vercel.app/api?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true) | ![GM-Frost top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true&layout=donut)
 
 <div align="center">
   
@@ -60,3 +60,6 @@
 
 </div>
 
+
+### 🔁 Top Contributed Repo
+![_](https://github-contributor-stats.vercel.app/api?username=gm-frost&limit=5&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&combine_all_yearly_contributions=true)
