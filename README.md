@@ -8,10 +8,6 @@
     [![Gmail Badge](https://img.shields.io/badge/-nayanbastola111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayanbastola111@gmail.com)](mailto:nayanbastola111@gmail.com)
      [![Website Badge](https://img.shields.io/badge/-www.nayanbastola.com-blue?style=flat-square&label&logo=map&link=https://www.nayanbastola.com)](https://www.nayanbastola.com)
 
- <!-- [![Medium Badge](https://img.shields.io/badge/-@nayanbastola-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
-
-  [![Behance Badge](https://img.shields.io/badge/-nayanbastola-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)-->
-
 <div align="right">
 <h3 align="right">Connect with me:</h3>
 <p align="right">
@@ -36,7 +32,7 @@
 
 - 💬 Ask me about **react, typescript, javaScript, nextJs, php, MERN**
 
-- 📫 How to reach me **nayanbastola777@gmail.com**
+- 📫 How to reach me **nayanbastola111@gmail.com**
 
 
 
