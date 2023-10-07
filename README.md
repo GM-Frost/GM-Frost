@@ -46,16 +46,16 @@
 
 | Github Stats | Top Languages
 | --- | --- |
-| ![GM-Frost github stats](https://github-readme-stats.vercel.app/api?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true) | ![GM-Frost top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&count_private=true&layout=donut)
+| ![GM-Frost github stats](https://github-readme-stats.vercel.app/api?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=none&count_private=true) | ![GM-Frost top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gm-frost&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=none&count_private=true&layout=donut)
 
 <div align="center">
   
 | Github Streaks |
 | ------ |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gm-frost&theme=leafy&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gm-frost&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&theme=none&border_radius=6&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 </div>
 
 
 ### 🔁 Top Contributed Repo
-![_](https://github-contributor-stats.vercel.app/api?username=gm-frost&limit=5&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=081c15&combine_all_yearly_contributions=true)
+![_](https://github-contributor-stats.vercel.app/api?username=gm-frost&limit=5&show_icons=true&title_color=ff5400&icon_color=f6c32c&text_color=9f9f9f&bg_color=none&combine_all_yearly_contributions=true)
